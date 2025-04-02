@@ -3,7 +3,7 @@ package keys
 import (
 	"fmt"
 
-	"github.com/bmourat/gotron-sdk/pkg/keys/hd"
+	"github.com/bmourat/gotron-sdk/v2/pkg/keys/hd"
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/tyler-smith/go-bip39"
 )

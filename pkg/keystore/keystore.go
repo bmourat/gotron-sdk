@@ -33,8 +33,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bmourat/gotron-sdk/pkg/address"
-	"github.com/bmourat/gotron-sdk/pkg/proto/core"
+	"github.com/bmourat/gotron-sdk/v2/pkg/address"
+	"github.com/bmourat/gotron-sdk/v2/pkg/proto/core"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/event"
 	"google.golang.org/protobuf/proto"

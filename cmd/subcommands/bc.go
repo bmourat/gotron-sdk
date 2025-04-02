@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bmourat/gotron-sdk/pkg/address"
-	"github.com/bmourat/gotron-sdk/pkg/common"
-	"github.com/bmourat/gotron-sdk/pkg/proto/core"
+	"github.com/bmourat/gotron-sdk/v2/pkg/address"
+	"github.com/bmourat/gotron-sdk/v2/pkg/common"
+	"github.com/bmourat/gotron-sdk/v2/pkg/proto/core"
 	"github.com/fatih/structs"
 	"github.com/spf13/cobra"
 	"google.golang.org/protobuf/reflect/protoreflect"

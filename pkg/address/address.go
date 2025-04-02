@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/bmourat/gotron-sdk/pkg/common"
+	"github.com/bmourat/gotron-sdk/v2/pkg/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 

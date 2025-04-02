@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bmourat/gotron-sdk/pkg/address"
-	"github.com/bmourat/gotron-sdk/pkg/proto/core"
+	"github.com/bmourat/gotron-sdk/v2/pkg/address"
+	"github.com/bmourat/gotron-sdk/v2/pkg/proto/core"
 	eABI "github.com/ethereum/go-ethereum/accounts/abi"
 	eCommon "github.com/ethereum/go-ethereum/common"
 	"golang.org/x/crypto/sha3"

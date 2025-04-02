@@ -11,10 +11,10 @@ import (
 
 	"github.com/mitchellh/go-homedir"
 
-	"github.com/bmourat/gotron-sdk/pkg/common"
-	"github.com/bmourat/gotron-sdk/pkg/keystore"
-	"github.com/bmourat/gotron-sdk/pkg/mnemonic"
-	"github.com/bmourat/gotron-sdk/pkg/store"
+	"github.com/bmourat/gotron-sdk/v2/pkg/common"
+	"github.com/bmourat/gotron-sdk/v2/pkg/keystore"
+	"github.com/bmourat/gotron-sdk/v2/pkg/mnemonic"
+	"github.com/bmourat/gotron-sdk/v2/pkg/store"
 	"github.com/btcsuite/btcd/btcec/v2"
 	mapset "github.com/deckarep/golang-set"
 )

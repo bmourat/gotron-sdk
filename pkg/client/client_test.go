@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/bmourat/gotron-sdk/pkg/client"
+	"github.com/bmourat/gotron-sdk/v2/pkg/client"
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/stretchr/testify/require"

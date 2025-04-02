@@ -1,9 +1,9 @@
 package account
 
 import (
-	"github.com/bmourat/gotron-sdk/pkg/keys"
-	"github.com/bmourat/gotron-sdk/pkg/mnemonic"
-	"github.com/bmourat/gotron-sdk/pkg/store"
+	"github.com/bmourat/gotron-sdk/v2/pkg/keys"
+	"github.com/bmourat/gotron-sdk/v2/pkg/mnemonic"
+	"github.com/bmourat/gotron-sdk/v2/pkg/store"
 )
 
 // Creation struct for account

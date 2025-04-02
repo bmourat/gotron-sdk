@@ -1,4 +1,4 @@
-module github.com/bmourat/gotron-sdk
+module github.com/bmourat/gotron-sdk/v2
 
 go 1.24
 

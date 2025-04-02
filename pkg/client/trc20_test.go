@@ -3,7 +3,7 @@ package client_test
 import (
 	"testing"
 
-	"github.com/bmourat/gotron-sdk/pkg/client"
+	"github.com/bmourat/gotron-sdk/v2/pkg/client"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
